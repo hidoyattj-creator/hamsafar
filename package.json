@@ -1,0 +1,21 @@
+{
+  "name": "hamsafar",
+  "version": "1.0.0",
+  "description": "Сервис для междугородных поездок в Таджикистане",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidoyattj-creator/hamsafar.git"
+  },
+  "keywords": ["taxi", "transport", "tajikistan"],
+  "author": "hidoyattj-creator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hidoyattj-creator/hamsafar/issues"
+  },
+  "homepage": "https://github.com/hidoyattj-creator/hamsafar#readme"
+}
